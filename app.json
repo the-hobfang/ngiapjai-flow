@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "ngiapjai-flow",
-    "slug": "ngiapjai-flow",
+    "slug": "ngiapjai",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "5807b582-b2bd-422a-9693-5207d903c0c6"
+      }
+    },
+    "owner": "thesasina"
   }
 }
